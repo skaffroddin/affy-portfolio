@@ -1,0 +1,45 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* Nav style */
+nav{
+    display: flex;
+}
+nav > ul {
+    display: flex;
+}
+
+ul > li{
+    list-style: none;
+    margin-right: 51px;
+    
+font-size: 20px;
+
+font-weight: 400;
+
+}
+
+.name-tag{
+color: #181818;
+font-family: Open Sans;
+font-size: 45px;
+font-style: normal;
+font-weight: 800;
+
+}
+.btn-pr{
+
+    background-color: #FD6E0A;
+    width: 150px;
+    height: 64px;
+    color: white;
+    font-family: Open Sans;
+font-size: 20px;
+border-radius: 5px;
+
+}
+
+.rib{
+    color: #FD6E0A;
+}
