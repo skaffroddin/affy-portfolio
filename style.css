@@ -1,5 +1,7 @@
 body{
     font-family: 'Open Sans', sans-serif;
+    padding: 0px;
+    margin: 0px;
 }
 
 /* Nav style */
@@ -7,8 +9,8 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-left: 226px;
-    margin-right: 230px;
+    margin-left: 79px;
+    margin-right: 0px
 }
 nav > ul {
     display: flex;
@@ -43,6 +45,7 @@ font-weight: 800;
     font-family: Open Sans;
 font-size: 15px;
 border-radius: 5px;
+border: none;
 
 }
 
@@ -51,10 +54,17 @@ border-radius: 5px;
 }
 
 /* Banner Header */
+.header{
+    background-image: url(/images/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-color: #FFF8F3;
+}
 .banner{
     display: flex;
     align-items: center;
-    background-color: #FFF8F3;
+    margin-left: 82px;
+    
 }
 .profile-pic{
     width: 584px;
