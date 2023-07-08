@@ -74,6 +74,10 @@ border: none;
 height: 676px;
 }
 /* Main Section start */
+main{
+    max-width: 1140px;
+    margin: 0px auto;
+}
 .about{
     background-color: #FFF8F3;
     width: 975px;
