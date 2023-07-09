@@ -89,3 +89,9 @@ margin: auto;
 margin-top: 130px;
 padding: 40px;
 }
+.about-info{
+    display: flex;
+    gap: 60px;
+    margin-left: 300px;
+
+}
