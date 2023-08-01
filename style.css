@@ -102,15 +102,14 @@ padding: 40px;
 }
 .skill{
     display: flex;
-    margin: 60px auto 60px auto;
-    width: 975px;
-    gap: 50px;
+    gap: 19px;
     text-align: left;
 }
 .skill-item{
-    width: 267px;
-height: 377px;
+   
+height: 286px;
 box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+padding: 13px;
 
 }
 
