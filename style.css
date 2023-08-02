@@ -112,5 +112,18 @@ box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
 padding: 13px;
 
 }
+/* Education section */
+.education-section{
+    width: 941px;
+    margin: auto;
+}
+.education-tit h1 {
+    text-align: center;
+    padding: 60px;
 
+}
+.education{
+    display: flex;
+    gap: 10px;
+}
 
