@@ -127,3 +127,33 @@ padding: 13px;
     gap: 10px;
 }
 
+
+.cv-btn{
+    margin: auto;
+    width: fit-content;
+    padding: 42px;
+
+}
+
+
+/* Footer */
+footer{
+    background-color: #FFF8F3;
+}
+.footer-content{
+    display: flex;
+    width: 941px;
+    height: 300px;
+   
+   
+    align-items: center;
+    gap: 10px;
+    margin: auto;
+}
+.ft-input input{
+    width: 100%;
+    
+}
+
+
+
